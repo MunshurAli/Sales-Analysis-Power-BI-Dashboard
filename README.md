@@ -15,10 +15,10 @@ customer segments, and time periods. The dashboard provides a comprehensive view
 
 💼 This hands-on project strengthened my understanding of:
 
--Data modeling and transformation.
--DAX for creating dynamic KPI's and calculations.
--Interactive data storytelling through slicers, filters, and visualizations.
--Designing dashboards tailored for business impact.
+* Data modeling and transformation.
+* DAX for creating dynamic KPI's and calculations.
+* Interactive data storytelling through slicers, filters, and visualizations.
+* Designing dashboards tailored for business impact.
 
 📷 Dashboard Preview
 
@@ -36,9 +36,6 @@ customer segments, and time periods. The dashboard provides a comprehensive view
 
 
 Contact
-
 For any feedback or collaboration ideas:
-
 📧 [mdmunshurali847@gmail.com]
-
 💼 [(https://www.linkedin.com/in/md-munshur-ali-082711240/recent-activity/all/)]
