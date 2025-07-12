@@ -5,12 +5,12 @@ customer segments, and time periods. The dashboard provides a comprehensive view
 
 📈 Key Insights Uncovered:
 
-💰 Total Profit: $10.46M, with an average profit per customer of $600.47
-📦 Total Revenue: $24.91M, driven by 84.17K units sold
-📉 Identified fluctuations in monthly sales, with a 13% drop in orders compared to the previous month
-📊 The “Road Bikes” and “Mountain Bikes” categories emerged as the top performers in terms of profit
-🌍 Sales trends were analyzed by region, gender, and occupation, offering actionable demographic insights
-🔁 Tracked return rates (2.17%) and highlighted categories with high return volumes for potential optimization
+* Total Profit: $10.46M, with an average profit per customer of $600.47
+* Total Revenue: $24.91M, driven by 84.17K units sold
+* Identified fluctuations in monthly sales, with a 13% drop in orders compared to the previous month
+* The “Road Bikes” and “Mountain Bikes” categories emerged as the top performers in terms of profit
+* Sales trends were analyzed by region, gender, and occupation, offering actionable demographic insights
+* Tracked return rates (2.17%) and highlighted categories with high return volumes for potential optimization
 
 
 💼 This hands-on project strengthened my understanding of:
