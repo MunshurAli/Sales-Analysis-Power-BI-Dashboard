@@ -1,4 +1,4 @@
-Project Overview:
+Sales Analysis Powert BI Project Overview:
 
 The goal of this project was to analyze sales performance, profitability, and customer behavior across different product categories,
 customer segments, and time periods. The dashboard provides a comprehensive view of key business metrics and trends, allowing for  strategic decision-making.
